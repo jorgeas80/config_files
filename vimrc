@@ -17,3 +17,4 @@ colorscheme asu1dark
 set runtimepath^=~/.vim/bundle/ag
 set backspace=indent,eol,start
 let NERDTreeIgnore = ['\.pyc$']
+set nu
